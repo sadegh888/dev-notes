@@ -7,4 +7,4 @@
 # Notes  -   This project is for demonstration purposes only.
 # Updates  -   Content will be updated over time.
 # Contributing  - Feel free to suggest improvements. 
-# License
+# License  -   This project is open-source and free to use.
