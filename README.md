@@ -4,3 +4,4 @@
 # Features  -   Simple structure- Easy to understand- Beginner friendly
 # Usage   -  You can use this project as a starting point for testing or learning.
 # Example  -  Example usage will be added here in the future.
+# Notes
